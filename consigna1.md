@@ -2,7 +2,7 @@
 
 En este trabajo práctico realizaremos una REST API para un restaurant de comida rápida **BurgerTIC**. Utilizaremos `node js` con `express` , `postgres`, `sequelize`, `jwt` y `bcryptjs`.
 
-Los equipos pueden experimentar la tecnica `vibe coding` para el desarrollo, pero **DEBEN PORDER COMPRENDER Y RESPONDER PREGUNTAS SOBRE EL CODIGO GENERADO**.
+Los equipos pueden experimentar la tecnica `vibe coding` para el desarrollo, pero **DEBEN PODER COMPRENDER Y RESPONDER PREGUNTAS SOBRE EL CODIGO GENERADO**.  
 Aunque resulte obvio, es importante aclarar que cada grupo debe desarrollar su propio backend: **NO SE VA A ACEPTAR QUE SE ENTREGUEN 2 BACKEND IGUALES**
 
 ## Grupos

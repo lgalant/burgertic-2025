@@ -64,6 +64,8 @@ En las clases siguientes iremos haciendo las demos de la aplicacion con el `back
 **Obs. 2**: El codigo debe cumplir con todos los lineamientos, librerias y estructuras que vimos en clase (guias en campus, tp4).  
 **Obs. 3**: Para sumar puntos, agregar funcionalidad adicional o mejoras al codigo crudo generado por la IA.  
 
+**importante** Completar el archivo log.md con el historial de los prompts ejecutados, respuestas obtenidas y acciones tomadas  
+
 
 ## Evaluacion
 * Se va a pedir que se cree al menos 1 plato nuevo y 2 pedidos con distintos estados
@@ -73,4 +75,4 @@ En las clases siguientes iremos haciendo las demos de la aplicacion con el `back
 * Explicar cómo se aplican las foreign keys en sequelize
 * Qué ventajas presenta sequelize a la hora de parsear datos de entrada y salida. Mostrar ejemplos
 * Explicar cómo se probaron los endpoints
-* Comprender la estructura del proyecto backend y responder preguntas sobre el codigo
+* Comprender la estructura del proyecto backend y responder preguntas **generales** sobre el código, por ejemplo: ¿ donde esta la funcion que valida cierta condicion ?
