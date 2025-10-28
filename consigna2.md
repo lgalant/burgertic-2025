@@ -60,9 +60,9 @@ Cliente:
 La fecha límite para subir el código es el día Viernes 14/11/2025, se descuentan puntos por no cumplir la fecha.  
 En las clases siguientes iremos haciendo las demos de la aplicacion con el `back` y el `front` **funcionando y conectados entre si**.  
 
-**Obs. 1**: Deben haber al menos 10 platos creados de distintos tipos y 2 pedidos
-**Obs. 2**: El codigo debe cumplir con todos los lineamientos, librerias y estructuras que vimos en clase (guias en campus, tp4)
-**Obs. 3**: Para sumar puntos, agregar funcionalidad adicional o mejoras al codigo crudo generado por la IA.
+**Obs. 1**: Deben haber al menos 10 platos creados de distintos tipos y 2 pedidos.  
+**Obs. 2**: El codigo debe cumplir con todos los lineamientos, librerias y estructuras que vimos en clase (guias en campus, tp4).  
+**Obs. 3**: Para sumar puntos, agregar funcionalidad adicional o mejoras al codigo crudo generado por la IA.  
 
 
 ## Evaluacion
